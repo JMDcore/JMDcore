@@ -93,6 +93,20 @@ La inteligencia artificial es una parte muy importante de mi forma de aprender, 
 
 </div>
 
+## Certificaciones y badges
+
+<div align="center">
+
+<a href="https://www.skills.google/public_profiles/7896d425-4780-4117-afa5-4f4d4fb59654/badges/25527144">
+  <img width="150" src="https://cdn.qwiklabs.com/zGrGbBUT0umIhEfVLkrLJumU0EJ5U35TYxJI7RgRpjY%3D" alt="Badge de Google Skills: Introduction to Generative AI" />
+</a>
+
+<br />
+
+[![Google Skills](https://img.shields.io/badge/Google%20Skills-Introduction%20to%20Generative%20AI-4285f4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/7896d425-4780-4117-afa5-4f4d4fb59654/badges/25527144)
+
+</div>
+
 ---
 
 <div align="center">
