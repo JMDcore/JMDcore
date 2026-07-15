@@ -22,7 +22,7 @@ La inteligencia artificial es una parte muy importante de mi forma de aprender, 
 
 <div align="center">
 
-<img src="./assets/jmdcore-system.svg" alt="Sistema de trabajo JMDcore: aprender, prototipar, automatizar, entregar y mejorar" />
+<img src="./assets/jmdcore-terminal.svg" alt="Terminal visual con resumen de José Miguel Díaz y JMDcore" />
 
 </div>
 
