@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=780&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%7C+Desarrollador;Software,+IA+y+automatizaci%C3%B3n;JMDcore+%3D+mi+marca+digital+y+laboratorio+creativo)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-jmdcore.com-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://jmdcore.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jmdcore-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmdcore/)
 [![GitHub](https://img.shields.io/badge/GitHub-JMDcore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMDcore)
 [![Profile views](https://komarev.com/ghpvc/?username=JMDcore&style=for-the-badge&color=2563eb&label=Profile+views)](https://github.com/JMDcore)
 
@@ -87,6 +88,7 @@ La inteligencia artificial es una parte muy importante de mi forma de aprender, 
 <div align="center">
 
 [![jmdcore.com](https://img.shields.io/badge/jmdcore.com-Visitar%20web-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://jmdcore.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmdcore/)
 [![GitHub profile](https://img.shields.io/badge/GitHub-Seguir%20perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMDcore)
 
 </div>
