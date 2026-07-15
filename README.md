@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=Jos%C3%A9%20Miguel%20D%C3%ADaz&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=JMDcore%20is%20my%20digital%20brand%20for%20software,%20AI%20and%20automation&descAlignY=58&animation=fadeIn" alt="José Miguel Díaz profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=Jos%C3%A9%20Miguel%20D%C3%ADaz&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=JMDcore%20es%20mi%20marca%20digital%20para%20software,%20IA%20y%20automatizaci%C3%B3n&descAlignY=58&animation=fadeIn" alt="Cabecera del perfil de José Miguel Díaz" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=780&lines=Computer+Engineering+student+%7C+Developer+%7C+AI-driven+builder;Building+software+with+automation,+speed+and+purpose;JMDcore+%3D+my+digital+brand+and+creative+lab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=780&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%7C+Desarrollador;Software,+IA+y+automatizaci%C3%B3n;JMDcore+%3D+mi+marca+digital+y+laboratorio+creativo)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-jmdcore.com-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://jmdcore.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-JMDcore-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMDcore)
@@ -12,34 +12,34 @@
 
 ---
 
-## Hi, I'm José Miguel Díaz
+## Hola, soy José Miguel Díaz
 
-I'm a software-focused Computer Science student finishing my degree at the University of La Laguna, building my own software projects in parallel under the **JMDcore** brand.
+Soy estudiante de **Ingeniería Informática** en la Universidad de La Laguna, terminando la carrera y construyendo proyectos propios en paralelo bajo la marca **JMDcore**.
 
-I enjoy creating practical digital products with a strong focus on clarity, automation and real-world usefulness. Most of my personal projects start as a hobby, but I am also open to development work, collaborations and software projects for companies that need clean, efficient and scalable solutions.
+Me gusta crear productos digitales prácticos, con foco en claridad, automatización y utilidad real. Muchos de mis proyectos nacen como hobby y como forma de aprender, pero también estoy abierto a colaborar y desarrollar soluciones software para empresas, equipos o proyectos que necesiten una base técnica limpia, eficiente y escalable.
 
-Artificial intelligence is a central part of how I learn, build and improve. I am constantly studying AI tools, workflows and implementation patterns, and I try to use AI as much as possible to increase efficiency, speed and reach in the projects I create.
+La inteligencia artificial es una parte muy importante de mi forma de aprender, trabajar y construir. Estoy en constante aprendizaje sobre IA, herramientas, agentes, automatizaciones y flujos de trabajo, e intento aprovecharla todo lo posible para ganar eficiencia, velocidad y alcance en los proyectos que desarrollo.
 
 ```ts
 const joseMiguelDiaz = {
-  brand: "JMDcore",
-  focus: ["software development", "AI-assisted workflows", "automation", "clean UX"],
-  currently: ["finishing a software-focused Computer Science degree", "building personal projects", "learning AI every day"],
+  marca: "JMDcore",
+  enfoque: ["desarrollo de software", "IA aplicada", "automatización", "interfaces claras"],
+  ahora: ["terminando Ingeniería Informática", "creando proyectos propios", "aprendiendo IA cada día"],
   stack: ["TypeScript", "JavaScript", "HTML", "CSS", "Docker"],
-  mindset: "learn fast, automate what can be automated, and build useful things with purpose",
+  mentalidad: "aprender rápido, automatizar lo repetitivo y construir soluciones útiles con intención",
 };
 ```
 
-## Currently
+## Ahora mismo
 
-- Finishing my software-focused Computer Science degree at the University of La Laguna.
-- Building personal projects in parallel, mainly as a hobby and creative learning space.
-- Open to any kind of software development work for companies, teams or independent projects.
-- Learning continuously about artificial intelligence and how to apply it to real software workflows.
-- Using AI whenever possible to improve efficiency, development speed, product quality and project reach.
-- Exploring automation, AI agents and internal tools that remove repetitive work and improve workflows.
+- Terminando la carrera de Ingeniería Informática en la Universidad de La Laguna.
+- Desarrollando proyectos propios en paralelo, principalmente como hobby y espacio de aprendizaje.
+- Abierto a colaborar en proyectos software para empresas, equipos o iniciativas independientes.
+- Aprendiendo continuamente sobre inteligencia artificial y cómo aplicarla al desarrollo real.
+- Usando IA siempre que puedo para mejorar eficiencia, velocidad de desarrollo, calidad y alcance.
+- Explorando automatizaciones, agentes de IA y herramientas internas que eliminan trabajo repetitivo.
 
-## Stack and Tools
+## Stack y herramientas
 
 <div align="center">
 
@@ -54,54 +54,54 @@ const joseMiguelDiaz = {
 
 </div>
 
-## Featured Projects
+## Proyectos destacados
 
-| Project | Focus | Stack |
+| Proyecto | Enfoque | Stack |
 | --- | --- | --- |
-| [JMD-ClientFlow](https://github.com/JMDcore/JMD-ClientFlow) | Mini CRM for freelancers and small businesses: clients, opportunities, tasks and sales pipeline. | Product, CRM, sales workflow |
-| [mode-train](https://github.com/JMDcore/mode-train) | TypeScript application with a strong visual base and web components. | TypeScript, CSS, Docker |
-| [JMDcore.github.io](https://github.com/JMDcore/JMDcore.github.io) | Public web presence for the JMDcore brand. | HTML, personal website |
+| [JMD-ClientFlow](https://github.com/JMDcore/JMD-ClientFlow) | Mini CRM para freelancers y pequeños negocios: clientes, oportunidades, tareas y pipeline comercial. | Producto, CRM, flujo comercial |
+| [mode-train](https://github.com/JMDcore/mode-train) | Aplicación TypeScript con una base visual potente y componentes web. | TypeScript, CSS, Docker |
+| [JMDcore.github.io](https://github.com/JMDcore/JMDcore.github.io) | Presencia web pública para la marca JMDcore. | HTML, web personal |
 
-## GitHub in Numbers
+## GitHub en números
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMDcore&theme=github_dark" alt="JMDcore profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMDcore&theme=github_dark" alt="Resumen del perfil de JMDcore" />
 
 <br />
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMDcore&theme=github_dark" alt="JMDcore repositories per language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMDcore&theme=github_dark" alt="JMDcore GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMDcore&theme=github_dark" alt="Repositorios de JMDcore por lenguaje" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMDcore&theme=github_dark" alt="Estadísticas de GitHub de JMDcore" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=JMDcore&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=14b8a6&fire=38bdf8&currStreakLabel=38bdf8" alt="JMDcore GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=JMDcore&theme=tokyonight&hide_border=true&border_radius=8&locale=es&date_format=j%20M%5B%20Y%5D&ring=14b8a6&fire=38bdf8&currStreakLabel=38bdf8" alt="Racha de contribuciones de JMDcore" />
 
 </div>
 
-## Contributions
+## Contribuciones
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JMDcore/JMDcore/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/JMDcore/JMDcore/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones" />
 
 </div>
 
-## How I Work
+## Forma de trabajar
 
-- AI is an essential part of my workflow: I use it, test it and implement it whenever it can make the solution better.
-- I believe software development becomes faster, more efficient and more powerful when AI is properly integrated into the technical solution.
-- I am a fan of automation, and I try to automate every repetitive task I can to make workflows cleaner and easier to maintain.
-- Product comes before decoration: every screen should help the user complete a real action.
-- Clean interfaces matter: less noise, more focus and better decisions.
-- I like quick iteration: build a usable version first, then improve it with intention.
+- La IA es una parte esencial de mi flujo de trabajo: la uso, la pruebo y la implemento siempre que puede mejorar la solución.
+- Creo que el desarrollo de software gana muchísima eficiencia, velocidad y alcance cuando la IA está bien integrada en la solución tecnológica.
+- Soy fan de las automatizaciones e intento automatizar todas las tareas repetitivas que puedo para facilitar el workflow.
+- Producto antes que decoración: cada pantalla debe ayudar a completar una acción real.
+- Interfaces limpias: menos ruido, más foco y mejores decisiones.
+- Iteración rápida: primero una versión usable, después mejora constante con intención.
 
-## Contact
+## Contacto
 
 <div align="center">
 
-[![jmdcore.com](https://img.shields.io/badge/jmdcore.com-Visit%20website-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://jmdcore.com/)
-[![GitHub profile](https://img.shields.io/badge/GitHub-Follow%20profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMDcore)
+[![jmdcore.com](https://img.shields.io/badge/jmdcore.com-Visitar%20web-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://jmdcore.com/)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Seguir%20perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMDcore)
 
 </div>
 
@@ -109,6 +109,6 @@ const joseMiguelDiaz = {
 
 <div align="center">
 
-`learn > automate > build > refine > repeat`
+`aprender > automatizar > construir > mejorar > repetir`
 
 </div>
