@@ -14,9 +14,9 @@
 
 ## Hola, soy José Miguel Díaz
 
-Soy estudiante de **Ingeniería Informática** en la Universidad de La Laguna, terminando la carrera y construyendo proyectos propios en paralelo bajo la marca **JMDcore**.
+Estudiante de **Ingeniería Informática** en la Universidad de La Laguna, terminando la carrera y construyendo proyectos propios en paralelo bajo la marca **JMDcore**.
 
-Me gusta crear productos digitales prácticos, con foco en claridad, automatización y utilidad real. Muchos de mis proyectos nacen como hobby y como forma de aprender, pero también estoy abierto a colaborar y desarrollar soluciones software para empresas, equipos o proyectos que necesiten una base técnica limpia, eficiente y escalable.
+Creo productos digitales prácticos, con foco en claridad, automatización y utilidad real. Muchos de mis proyectos nacen como hobby y como forma de aprender, pero también estoy abierto a colaborar y desarrollar soluciones software para empresas, equipos o proyectos que necesiten una base técnica limpia, eficiente y escalable.
 
 La inteligencia artificial es una parte muy importante de mi forma de aprender, trabajar y construir. Estoy en constante aprendizaje sobre IA, herramientas, agentes, automatizaciones y flujos de trabajo, e intento aprovecharla todo lo posible para ganar eficiencia, velocidad y alcance en los proyectos que desarrollo.
 
@@ -93,7 +93,6 @@ const joseMiguelDiaz = {
 - Creo que el desarrollo de software gana muchísima eficiencia, velocidad y alcance cuando la IA está bien integrada en la solución tecnológica.
 - Soy fan de las automatizaciones e intento automatizar todas las tareas repetitivas que puedo para facilitar el workflow.
 - Producto antes que decoración: cada pantalla debe ayudar a completar una acción real.
-- Interfaces limpias: menos ruido, más foco y mejores decisiones.
 - Iteración rápida: primero una versión usable, después mejora constante con intención.
 
 ## Contacto
