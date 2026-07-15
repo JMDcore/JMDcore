@@ -56,6 +56,7 @@ La inteligencia artificial es una parte muy importante de mi forma de aprender, 
 | Proyecto | Enfoque | Stack |
 | --- | --- | --- |
 | [JMD-ClientFlow](https://github.com/JMDcore/JMD-ClientFlow) | Mini CRM para freelancers y pequeños negocios: clientes, oportunidades, tareas y pipeline comercial. | Producto, CRM, flujo comercial |
+| [ChangeLens](https://github.com/JMDcore/JMD-ChangeLens) | Plataforma visual para extraer datos, programar monitores y detectar cambios en páginas web de forma segura. | Next.js, TypeScript, Crawlee, Playwright, PostgreSQL, Redis y BullMQ |
 | [mode-train](https://github.com/JMDcore/mode-train) | Aplicación TypeScript con una base visual potente y componentes web. | TypeScript, CSS, Docker |
 | [JMDcore.github.io](https://github.com/JMDcore/JMDcore.github.io) | Presencia web pública para la marca JMDcore. | HTML, web personal |
 
