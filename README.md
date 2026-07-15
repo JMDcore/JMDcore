@@ -14,7 +14,7 @@
 
 ## Hi, I'm José Miguel Díaz
 
-I'm a Computer Engineering student finishing my degree at the University of La Laguna, building my own software projects in parallel under the **JMDcore** brand.
+I'm a software-focused Computer Science student finishing my degree at the University of La Laguna, building my own software projects in parallel under the **JMDcore** brand.
 
 I enjoy creating practical digital products with a strong focus on clarity, automation and real-world usefulness. Most of my personal projects start as a hobby, but I am also open to development work, collaborations and software projects for companies that need clean, efficient and scalable solutions.
 
@@ -24,7 +24,7 @@ Artificial intelligence is a central part of how I learn, build and improve. I a
 const joseMiguelDiaz = {
   brand: "JMDcore",
   focus: ["software development", "AI-assisted workflows", "automation", "clean UX"],
-  currently: ["finishing Computer Engineering", "building personal projects", "learning AI every day"],
+  currently: ["finishing a software-focused Computer Science degree", "building personal projects", "learning AI every day"],
   stack: ["TypeScript", "JavaScript", "HTML", "CSS", "Docker"],
   mindset: "learn fast, automate what can be automated, and build useful things with purpose",
 };
@@ -32,7 +32,7 @@ const joseMiguelDiaz = {
 
 ## Currently
 
-- Finishing my Computer Engineering degree at the University of La Laguna.
+- Finishing my software-focused Computer Science degree at the University of La Laguna.
 - Building personal projects in parallel, mainly as a hobby and creative learning space.
 - Open to any kind of software development work for companies, teams or independent projects.
 - Learning continuously about artificial intelligence and how to apply it to real software workflows.
