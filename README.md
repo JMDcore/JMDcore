@@ -20,15 +20,11 @@ Creo productos digitales prácticos, con foco en claridad, automatización y uti
 
 La inteligencia artificial es una parte muy importante de mi forma de aprender, trabajar y construir. Estoy en constante aprendizaje sobre IA, herramientas, agentes, automatizaciones y flujos de trabajo, e intento aprovecharla todo lo posible para ganar eficiencia, velocidad y alcance en los proyectos que desarrollo.
 
-```ts
-const joseMiguelDiaz = {
-  marca: "JMDcore",
-  enfoque: ["desarrollo de software", "IA aplicada", "automatización", "interfaces claras"],
-  ahora: ["terminando Ingeniería Informática", "creando proyectos propios", "aprendiendo IA cada día"],
-  stack: ["TypeScript", "JavaScript", "HTML", "CSS", "Docker"],
-  mentalidad: "aprender rápido, automatizar lo repetitivo y construir soluciones útiles con intención",
-};
-```
+<div align="center">
+
+<img src="./assets/jmdcore-system.svg" alt="Sistema de trabajo JMDcore: aprender, prototipar, automatizar, entregar y mejorar" />
+
+</div>
 
 ## Ahora mismo
 
@@ -62,20 +58,11 @@ const joseMiguelDiaz = {
 | [mode-train](https://github.com/JMDcore/mode-train) | Aplicación TypeScript con una base visual potente y componentes web. | TypeScript, CSS, Docker |
 | [JMDcore.github.io](https://github.com/JMDcore/JMDcore.github.io) | Presencia web pública para la marca JMDcore. | HTML, web personal |
 
-## GitHub en números
+## Laboratorio JMDcore
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JMDcore&theme=github_dark" alt="Resumen del perfil de JMDcore" />
-
-<br />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JMDcore&theme=github_dark" alt="Repositorios de JMDcore por lenguaje" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JMDcore&theme=github_dark" alt="Estadísticas de GitHub de JMDcore" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=JMDcore&theme=tokyonight&hide_border=true&border_radius=8&locale=es&date_format=j%20M%5B%20Y%5D&ring=14b8a6&fire=38bdf8&currStreakLabel=38bdf8" alt="Racha de contribuciones de JMDcore" />
+<img src="./assets/jmdcore-lab.svg" alt="Laboratorio JMDcore: software, inteligencia artificial, automatización y producto" />
 
 </div>
 
